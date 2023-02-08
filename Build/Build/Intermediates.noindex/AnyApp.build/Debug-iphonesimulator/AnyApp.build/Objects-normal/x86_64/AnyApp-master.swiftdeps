@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "66b9bc7a9a7dc335e93882126d0307f0bdbce66f447edf8105c1672b93073374"
+build_start_time: [1675890967, 259804964]
+build_end_time: [1675890979, 401782989]
+inputs:
+  "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyApp/AnyAppApp.swift": [1675888079, 307032585]
+  "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyApp/ContentView.swift": [1675888079, 307734966]

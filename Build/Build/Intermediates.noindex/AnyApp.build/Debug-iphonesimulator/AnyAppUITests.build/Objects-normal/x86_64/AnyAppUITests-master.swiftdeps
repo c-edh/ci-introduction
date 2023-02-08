@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0fad6adabf6c76a27809f87291f2eb08467e4668ba2fc4a060b525c8eae92338"
+build_start_time: [1675890967, 977692127]
+build_end_time: [1675890986, 784490108]
+inputs:
+  "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyAppUITests/AnyAppUITests.swift": [1675888079, 308561325]
+  "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyAppUITests/AnyAppUITestsLaunchTests.swift": [1675888079, 308783054]

@@ -1,0 +1,12 @@
+{
+  "source": "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
