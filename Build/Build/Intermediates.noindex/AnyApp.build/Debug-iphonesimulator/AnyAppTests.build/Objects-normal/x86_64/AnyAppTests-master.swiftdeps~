@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2fc6e90a2d0dbf5a001c618fa50f0859bbbbe13ae5a7010f2e1efb33f3145163"
+build_start_time: [1675890968, 730680942]
+build_end_time: [1675890968, 788324832]
+inputs:
+  "/Users/coreyedh/Documents/Code/Apolis/Learning_Git/ci-introduction/AnyAppTests/AnyAppTests.swift": !private [1675888079, 308296918]

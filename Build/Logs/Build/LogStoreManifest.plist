@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C4B00B8C-EDD1-4AD8-AA7D-1523EB891134</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4B00B8C-EDD1-4AD8-AA7D-1523EB891134.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnyApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnyApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace AnyApp with scheme AnyApp</string>
+			<key>timeStartedRecording</key>
+			<real>697583750.702057</real>
+			<key>timeStoppedRecording</key>
+			<real>697583766.07960498</real>
+			<key>title</key>
+			<string>Building workspace AnyApp with scheme AnyApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C4B00B8C-EDD1-4AD8-AA7D-1523EB891134</string>
+		</dict>
+		<key>DD243A37-DC29-48BA-A2D9-6A50875F5063</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD243A37-DC29-48BA-A2D9-6A50875F5063.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AnyApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AnyApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace AnyApp with scheme AnyApp</string>
+			<key>timeStartedRecording</key>
+			<real>697583766.08197403</real>
+			<key>timeStoppedRecording</key>
+			<real>697583786.79125595</real>
+			<key>title</key>
+			<string>Testing workspace AnyApp with scheme AnyApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DD243A37-DC29-48BA-A2D9-6A50875F5063</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
